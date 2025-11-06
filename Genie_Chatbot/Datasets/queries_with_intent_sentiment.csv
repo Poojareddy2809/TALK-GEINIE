@@ -1,0 +1,11 @@
+query,predicted_intent,predicted_sentiment
+What's the weather like today?,weather,neutral
+Play some relaxing music.,music,neutral
+Tell me a joke.,joke,neutral
+Set an alarm for 7 AM.,alarm,neutral
+Hi there!,greeting,neutral
+"Goodbye, see you later.",goodbye,neutral
+Book a table for dinner.,restaurant,neutral
+Remind me to call mom.,alarm,neutral
+Is it going to rain tomorrow?,weather,neutral
+Turn on the lights.,unknown,neutral
